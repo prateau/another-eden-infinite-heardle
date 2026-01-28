@@ -1,3 +1,5 @@
+window.location.href = 'https://prateau-heardle.github.io/another-eden-heardle/';
+
 var app = (function () {
   var artist = "Another Eden";
   var twitter = "";
